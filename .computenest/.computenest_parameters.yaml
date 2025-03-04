@@ -1,0 +1,11 @@
+AdvancedOptions: false
+RuntimeType: Container
+DockerFilePath: docker/dev/Dockerfile
+ServiceType: private
+ArtifactSourceType: Dockerfile
+ServiceBuildRegion: ap-southeast-1
+RepoName: lanyy9527/secretflow
+RegionId: cn-hangzhou
+Owner: lanyy9527
+Branch: release/1.11.x
+Platform: github
